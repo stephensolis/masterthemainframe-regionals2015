@@ -1,0 +1,202 @@
+Retrieving data from the database... 25%... 50%... 75%... done.
+
+                              Country Data Report                               
+                              -------------------                               
+
+Report Information                                                              
+------------------                                                              
+Description: Countries where growth rate is negative
+Generated on: Sun Dec 27 20:07:51 CST 2015
+
+Statistics                                                                      
+----------                                                                      
+There are 33 countries in the report out of 228 total (14%).
+
+Growth Rate:
+  Average was -0.614 and standard deviation was 0.959.
+  Range was from -5.07 to -0.03.
+  Distribution:
+    -5.07 - -4.45 |## (1)
+    -4.44 - -3.82 | (0)
+    -3.81 - -3.19 | (0)
+    -3.18 - -2.56 |## (1)
+    -2.55 - -1.93 | (0)
+    -1.92 - -1.30 | (0)
+    -1.29 - -0.67 |######## (5)
+    -0.66 - -0.03 |######################################## (26)
+                  -----------------------------------------
+                  0  2  4  6  8  10  12  15  18  20  23  25  
+                             Number of countries           
+
+Infant Mortality Rate:
+  Average was 9.76 and standard deviation was 6.97.
+  Range was from 2.1 to 32.6.
+  Distribution:
+        2.1 - 5.8 |######################################## (12)
+        5.9 - 9.6 |################################# (10)
+       9.7 - 13.4 |############# (4)
+      13.5 - 17.2 |########## (3)
+      17.3 - 21.1 | (0)
+      21.2 - 24.9 |########## (3)
+      25.0 - 28.7 | (0)
+      28.8 - 32.6 |### (1)
+                  -----------------------------------------
+                  0  1  2  3  4  5  5  6  7  8  9  10  11  
+                             Number of countries           
+
+Average infant mortality rate by age and gender:
+  Overall   | All     |############################## (9.76)
+            | Males   |################################# (10.87)
+            | Females |########################## (8.58)
+  1-4 years | All     |###### (2.01)
+            | Males   |####### (2.32)
+            | Females |##### (1.66)
+  5 years   | All     |#################################### (11.71)
+            | Males   |######################################## (13.15)
+            | Females |############################### (10.22)
+                      -----------------------------------------
+                      0.00  1.97  3.94  5.92  7.89  9.86  11.83  
+                                Infant Mortality Rate          
+
+Life Expectancy Rate:
+  Average was 75.76 and standard deviation was 3.33.
+  Range was from 68.1 to 84.7.
+  Distribution:
+      68.1 - 70.1 |### (1)
+      70.2 - 72.2 |########## (3)
+      72.3 - 74.2 |############# (4)
+      74.3 - 76.3 |######################################## (12)
+      76.4 - 78.4 |####################### (7)
+      78.5 - 80.4 |############# (4)
+      80.5 - 82.5 |### (1)
+      82.6 - 84.7 |### (1)
+                  -----------------------------------------
+                  0  1  2  3  4  5  5  6  7  8  9  10  11  
+                             Number of countries           
+
+Average life expectancy rate by gender:
+  All     |###################################### (75.76)
+  Males   |#################################### (72.33)
+  Females |######################################## (79.38)
+          -----------------------------------------
+          0.00  11.91  25.80  39.69  53.58  67.47  
+                    Life Expectancy Rate           
+
+Sex Ratio:
+  Average was 95.93 and standard deviation was 8.24.
+  Range was from 85.1 to 125.7.
+  Distribution:
+      85.1 - 90.1 |####################### (7)
+      90.2 - 95.2 |######################################## (12)
+     95.3 - 100.2 |####################### (7)
+    100.3 - 105.3 |############# (4)
+    105.4 - 110.4 |### (1)
+    110.5 - 115.4 |### (1)
+    115.5 - 120.5 | (0)
+    120.6 - 125.7 |### (1)
+                  -----------------------------------------
+                  0  1  2  3  4  5  5  6  7  8  9  10  11  
+                             Number of countries           
+
+Average sex ratio across age groups:
+ Legend: M - Male, F - Female
+  Total|MMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFF (95.9)
+    0-4|MMMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFF (105.5)
+    5-9|MMMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFF (105.2)
+  10-14|MMMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFF (105.5)
+  15-19|MMMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFF (106.0)
+  20-24|MMMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFF (105.4)
+  25-29|MMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFF (104.0)
+  30-34|MMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFF (103.6)
+  35-39|MMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFF (103.4)
+  40-44|MMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFF (100.9)
+  45-49|MMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFF (100.1)
+  50-54|MMMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFF (96.9)
+  55-59|MMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFFF (94.3)
+  60-64|MMMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFFF (89.1)
+  65-69|MMMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFFFF (84.1)
+  70-74|MMMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFFFFF (75.2)
+  75-79|MMMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFFFFFF (67.3)
+  80-84|MMMMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFFFFFFF (57.7)
+  85-89|MMMMMMMMMMMMMFFFFFFFFFFFFFFFFFFFFFFFFFFF (48.1)
+  90-94|MMMMMMMMMMMFFFFFFFFFFFFFFFFFFFFFFFFFFFFF (36.6)
+  95-99|MMMMMMMMMFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF (29.9)
+   100+|MMMMMMMMMFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF (28.4)
+       -------------------------------------------------
+
+Top and Bottom Countries                                                        
+------------------------                                                        
+Growth Rate:
+Top 5 countries (highest growth):      | Bottom 5 countries (lowest growth):    
+1. Russia (-0.03)                      | 1. Syria (-5.07)                       
+2. Guyana (-0.05)                      | 2. CookIslands (-2.96)                 
+3. Poland (-0.08)                      | 3. Ukraine (-1.15)                     
+4. Maldives (-0.09)                    | 4. Latvia (-1.05)                      
+5. Georgia (-0.09)                     | 5. Lithuania (-1.04)                   
+
+Infant Mortality Rate:
+Top 5 countries (worst rate):          | Bottom 5 countries (best rate):        
+1. Guyana (32.6)                       | 1. Japan (2.1)                         
+2. TrinidadandTobago (23.9)            | 2. Germany (3.4)                       
+3. Maldives (23.7)                     | 3. Belarus (3.6)                       
+4. Micronesia,FederatedStatesof (21.2) | 4. Lithuania (3.8)                     
+5. Georgia (16.2)                      | 5. Estonia (3.9)                       
+
+Life Expectancy Rate:
+Top 5 countries (best rate):           | Bottom 5 countries (worst rate):       
+1. Japan (84.7)                        | 1. Guyana (68.1)                       
+2. Germany (80.6)                      | 2. Moldova (70.4)                      
+3. SaintPierreandMiquelon (80.4)       | 3. Russia (70.5)                       
+4. VirginIslands,U.S. (79.9)           | 4. Ukraine (71.6)                      
+5. SaintBarthelemy (79.5)              | 5. Belarus (72.5)                      
+
+Sex Ratio:
+Top 5 countries (most males):          | Bottom 5 countries (most females):     
+1. Maldives (125.7)                    | 1. Latvia (85.1)                       
+2. SaintBarthelemy (113.1)             | 2. Lithuania (85.4)                    
+3. CookIslands (106.7)                 | 3. Russia (86.1)                       
+4. SaintVincentandtheGrenadines (103.3)| 4. Ukraine (86.1)                      
+5. TrinidadandTobago (102.7)           | 5. Belarus (87.0)                      
+
+Country Data Table                                                              
+------------------                                                              
+ Legend: IMR - Infant Mortality Rate
+         LER - Life Expectancy Rate
+         M - Male, F - Female
+-------------------------------------------------------------------------------
+|           Country            |Growth Rate|  IMR  |  LER  |    Sex Ratio     |
+-------------------------------------------------------------------------------
+| AmericanSamoa                |     -0.32 |   8.7 |  75.1 |MMMMMFFFFF (99.9) |
+| Armenia                      |     -0.14 |  13.5 |  74.4 |MMMMMFFFFF (93.6) |
+| Belarus                      |     -0.19 |   3.6 |  72.5 |MMMMMFFFFF (87.0) |
+| BosniaandHerzegovina         |     -0.12 |   5.7 |  76.6 |MMMMMFFFFF (95.1) |
+| Bulgaria                     |     -0.57 |   8.7 |  74.4 |MMMMMFFFFF (95.4) |
+| CookIslands                  |     -2.96 |  13.9 |  75.6 |MMMMMFFFFF (106.7)|
+| Croatia                      |     -0.13 |   5.8 |  76.6 |MMMMMFFFFF (93.1) |
+| Cuba                         |     -0.14 |   4.6 |  78.4 |MMMMMFFFFF (98.7) |
+| Estonia                      |     -0.56 |   3.9 |  76.5 |MMMMMFFFFF (87.4) |
+| Georgia                      |     -0.09 |  16.2 |  76.0 |MMMMMFFFFF (91.6) |
+| Germany                      |     -0.18 |   3.4 |  80.6 |MMMMMFFFFF (96.6) |
+| Guyana                       |     -0.05 |  32.6 |  68.1 |MMMMMFFFFF (102.0)|
+| Hungary                      |     -0.22 |   5.0 |  75.7 |MMMMMFFFFF (91.0) |
+| Japan                        |     -0.14 |   2.1 |  84.7 |MMMMMFFFFF (94.3) |
+| Latvia                       |     -1.05 |   5.4 |  74.2 |MMMMMFFFFF (85.1) |
+| Lithuania                    |     -1.04 |   3.8 |  74.7 |MMMMMFFFFF (85.4) |
+| Maldives                     |     -0.09 |  23.7 |  75.4 |MMMMMMFFFF (125.7)|
+| Micronesia,FederatedStatesof |     -0.40 |  21.2 |  72.6 |MMMMMFFFFF (98.0) |
+| Moldova                      |     -1.02 |  12.6 |  70.4 |MMMMMFFFFF (94.7) |
+| Montenegro                   |     -0.46 |   8.7 |  78.4 |MMMMMFFFFF (99.2) |
+| Poland                       |     -0.08 |   4.5 |  77.4 |MMMMMFFFFF (93.9) |
+| PuertoRico                   |     -0.62 |   7.6 |  79.3 |MMMMMFFFFF (91.5) |
+| Romania                      |     -0.29 |   9.9 |  74.9 |MMMMMFFFFF (94.8) |
+| Russia                       |     -0.03 |   7.0 |  70.5 |MMMMMFFFFF (86.1) |
+| SaintBarthelemy              |     -0.41 |   6.2 |  79.5 |MMMMMFFFFF (113.1)|
+| SaintPierreandMiquelon       |     -1.04 |   6.8 |  80.4 |MMMMMFFFFF (95.7) |
+| SaintVincentandtheGrenadines |     -0.28 |  12.7 |  75.1 |MMMMMFFFFF (103.3)|
+| Serbia                       |     -0.46 |   6.1 |  75.3 |MMMMMFFFFF (95.1) |
+| Slovenia                     |     -0.25 |   4.0 |  78.0 |MMMMMFFFFF (94.9) |
+| Syria                        |     -5.07 |  15.6 |  74.7 |MMMMMFFFFF (101.0)|
+| TrinidadandTobago            |     -0.13 |  23.9 |  72.6 |MMMMMFFFFF (102.7)|
+| Ukraine                      |     -1.15 |   8.1 |  71.6 |MMMMMFFFFF (86.1) |
+| VirginIslands,U.S.           |     -0.57 |   6.6 |  79.9 |MMMMMFFFFF (87.0) |
+-------------------------------------------------------------------------------
